@@ -1,0 +1,63 @@
+
+run:
+Enter name for Player one
+Andrew
+Enter the type of Player for Andrew 1: human, 2: Below Average Computer, and 3: SmartComputer
+100
+Please Enter valid input! 1: human, 2: Below Average Computer, and 3: SmartComputer
+3
+Enter 1 if you are going first. Enter 2 if you are going second
+1
+
+Enter name for Player two
+Jess
+Enter the type of Player for Jess 1: human, 2: Below Average Computer, and 3: SmartComputer
+400
+Please Enter valid input! 1: human, 2: Below Average Computer, and 3: SmartComputer
+3
+Enter 1 if you are going first. Enter 2 if you are going second
+1
+Other player already selected 1
+Please select 1 or 2
+2
+Player: Andrew
+45
+How many mables would you like to take away? Current Marbles 90
+
+Andrew: Has taken 27 of Marbles
+
+Player2: Jess
+31
+How many mables would you like to take away? Current Marbles 63
+
+Jess: Has taken 30 of Marbles
+
+How many mables would you like to take away? Current Marbles 15
+Player: Jess
+Tried to take out 0
+Please enter a value between 1 - 7 Current marbles are = 15
+Player: Jess
+Tried to take out 10
+Please enter a value between 1 - 7 Current marbles are = 15
+
+Player2: Jess
+1
+How many mables would you like to take away? Current Marbles 3
+
+Jess: Has taken 1 of Marbles
+
+Player: Andrew
+1
+How many mables would you like to take away? Current Marbles 2
+
+Andrew: Has taken 1 of Marbles
+
+ Game over Player Andrew has Won the Game ! 
+
+
+Would you like to play again?
+Enter 0 for no and 1 for yes
+0
+
+Game has Ended! Thank you for playing!
+BUILD SUCCESSFUL (total time: 53 seconds)

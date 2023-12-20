@@ -1,0 +1,38 @@
+run:
+Printing unsorted shapes array.
+
+Class name: Sphere_Sub_Class, Center at: (2,5,8), Radius: 14, Surface Area: 2463.0086404143976
+Class name: Cone_Sub_Class, Center at: (-5,4,-1), Height:15, Radius: 11, Surface Area: 1022.9397255576102
+Class name: Cylinder_Sub_Class, Center at: (-3,-7,5), Height:12, Radius: 14, Surface Area: 2287.0794518133694
+Class name: Parallelepiped_Sub_Class, Center at: (7,16,9), Length: 19, Width: 9, Height:13, Surface Area: 1070.0
+
+
+Printing array sorted by volume.
+
+Sphere_Sub_Class
+ Volume: 11494.040321933855
+
+Cylinder_Sub_Class
+ Volume: 7389.025921243193
+
+Parallelepiped_Sub_Class
+ Volume: 2223.0
+
+Cone_Sub_Class
+ Volume: 1900.6635554218249
+
+
+Printing array sorted by distance from the origin.
+
+Cone_Sub_Class
+ Distance from the origin: 6.48074069840786
+
+Cylinder_Sub_Class
+ Distance from the origin: 9.1104335791443
+
+Sphere_Sub_Class
+ Distance from the origin: 9.643650760992955
+
+Parallelepiped_Sub_Class
+ Distance from the origin: 19.6468827043885
+BUILD SUCCESSFUL (total time: 0 seconds)

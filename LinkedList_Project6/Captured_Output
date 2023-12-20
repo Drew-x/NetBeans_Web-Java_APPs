@@ -1,0 +1,90 @@
+run:
+APPEND
+append number: 5
+5  
+
+
+APPEND
+append number: 20
+5  20  
+
+
+APPEND
+append number: 12
+5  20  12  
+
+
+APPEND
+append number: 37
+5  20  12  37  
+
+
+ADD
+add at: 3( 7)
+5  20  7  12  37  
+
+
+ADD
+add at: 1( 19)
+19  5  20  7  12  37  
+
+
+DELETE
+delete at: 3
+19  5  7  12  37  
+
+
+DELETE
+delete at: 1
+5  7  12  37  
+
+
+ADD
+add at: 1( 44)
+44  5  7  12  37  
+
+
+ADD
+add at: 2( 22)
+44  22  5  7  12  37  
+
+
+DELETE
+delete at: 6
+44  22  5  7  12  
+
+
+SWAP
+sawp 3 with 5
+44  22  12  7  5  
+
+
+REVERSE
+5  7  12  22  44  
+
+
+SWAP
+sawp 1 with 3
+12  7  5  22  44  
+
+
+SWAP
+sawp 3 with 4
+12  7  22  5  44  
+
+
+SWAP
+sawp 2 with 2
+12  7  22  5  44  
+
+
+CLEAR
+Link list cleared
+
+
+REVERSE
+Linked List is Empty
+
+
+
+BUILD SUCCESSFUL (total time: 0 seconds)
